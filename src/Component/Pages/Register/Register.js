@@ -25,6 +25,7 @@ const Register = () => {
 
   return (
     <Box style={{ backgroundColor: "#284a5e" }}>
+      <p>hello</p>
       <Box className={classes.mainContainer}>
         <Box className={classes.container}>
           <Box className={classes.firstInner}>
